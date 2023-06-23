@@ -1,0 +1,7 @@
+Automated Tests in RobotFramework Meeting with Danie:
+	-Problematic
+	-Purpose is to know in the morning if system works properly
+	-Automation
+	-Pipeline to push new tests to repo, seamless process to upload tests to already running tests.
+	-Put everything in one place, less moving parts.
+	-
